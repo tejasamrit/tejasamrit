@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tejas Amrit</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A Passionate Full Stack Developer from India</h3>
 
 - 🌱 I’m currently learning **Spring Boot**
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **tejasamrit47@gmail.com**
 
-- ⚡ Fun fact **A fun fact about you is that you're a true adventurer at heart—you love trying out things that challenge your fears while staying grounded with hobbies like sketching and cycling. Plus, your knack for making people laugh makes you the life of the party! 🎨🚴‍♂️😊**
+- ⚡ Fun fact **A fun fact about me is that I'm a true adventurer at heart—you love trying out things that challenge your fears while staying grounded with hobbies like sketching and cycling. Plus, my knack for making people laugh makes me the life of the party! 🎨🚴‍♂️😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
