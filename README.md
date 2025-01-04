@@ -24,11 +24,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejasamrit&" alt="tejasamrit" /></p>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/tejasamrit/tejasamrit/output/snake.svg" alt="Snake animation" />
-
-###
 
