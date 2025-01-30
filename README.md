@@ -5,6 +5,8 @@
 
 - 👨‍💻 All of my projects are available at [https://tejasamritdevportfolio.netlify.app/](https://tejasamritdevportfolio.netlify.app/)
 
+- Coding Profiles stats: https://codolio.com/profile/tejasamrit
+
 - 📫 How to reach me **tejasamrit47@gmail.com**
 
 - ⚡ Fun fact **A fun fact about me is that I'm a true adventurer at heart—I love trying out things that challenge my fears while staying grounded with hobbies like sketching and cycling. Plus, my knack for making people laugh makes me the life of the party! 🎨🚴‍♂️😊**
