@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tejas Amrit</h1>
 <h3 align="center">A Passionate Full Stack Java Developer from India</h3>
 
-- 🌱 I’m currently learning **Spring Boot**
-
-- 👨‍💻 All of my projects are available at [https://tejasamritdevportfolio.netlify.app/](https://tejasamritdevportfolio.netlify.app/)
+- 🌱 I’m currently learning **NodeJs, ExpressJs**
 
 - Coding Profiles stats: https://codolio.com/profile/tejasamrit
 
