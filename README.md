@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tejas Amrit</h1>
-<h3 align="center">A Passionate Full Stack Java Developer from India</h3>
+<h3 align="center">A Passionate Full Stack Web Developer from India</h3>
 
-- 🌱 I’m currently learning **NodeJs, ExpressJs**
+- 🌱 I’m currently exploring **NodeJs, ExpressJs**
 
 - Coding Profiles stats: https://codolio.com/profile/tejasamrit
 
