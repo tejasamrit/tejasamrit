@@ -14,7 +14,7 @@
 
 ### 🌐 Connect with me:
 <p align="left">
-  <a href="https://www.geeksforgeeks.org/user/amritpraceli5/" target="_blank"><img src="https://img.icons8.com/color/48/geeksforgeeks.png" width="30"/></a>
+  <a href="https://www.geeksforgeeks.org/user/amritpraceli5/" target="_blank"><img src="https://commons.wikimedia.org/wiki/File:GeeksForGeeks_logo.png" width="30"/></a>
   <a href="https://www.hackerrank.com/profile/tejasamrit" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="30"/></a>
   <a href="https://leetcode.com/_amrit_tejas_/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="30"/></a>
 </p>
@@ -30,8 +30,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
@@ -41,10 +39,6 @@
 ---
 
 ### 📊 My Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tejasamrit&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasamrit&layout=compact&langs_count=8&theme=default" alt="Top Languages" />
 </p>
