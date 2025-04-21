@@ -14,7 +14,7 @@
 
 ### 🌐 Connect with me:
 <p align="left">
-  <a href="https://auth.geeksforgeeks.org/user/amritpraceli5/" target="_blank"><img src="https://img.icons8.com/color/48/geeksforgeeks.png" width="30"/></a>
+  <a href="https://www.geeksforgeeks.org/user/amritpraceli5/" target="_blank"><img src="https://img.icons8.com/color/48/geeksforgeeks.png" width="30"/></a>
   <a href="https://www.hackerrank.com/profile/tejasamrit" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="30"/></a>
   <a href="https://leetcode.com/_amrit_tejas_/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="30"/></a>
 </p>
