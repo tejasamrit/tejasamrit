@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Tejas Amrit</h1>
 <h3 align="center">A Passionate Full Stack Web Developer from India</h3>
 
-- 🌱 I’m currently exploring **NodeJs, ExpressJs**
+- 🌱 I’m currently exploring **Backend Technologies**
 
 - 👨‍💻 Coding Profiles: [Codolio](https://codolio.com/profile/tejasamrit)
 
-- 📫 How to reach me **tejasamrit47@gmail.com**
+- 📫 How to reach me **tejasamrit47@gmail.com** or **https://tejasamrit-portfolio.netlify.app/**
 
 - ⚡ Fun fact: **I'm a true adventurer at heart—I love trying out things that challenge my fears while staying grounded with hobbies like sketching and cycling. Plus, I’m known for my sense of humor! 🎨🚴‍♂️😊**
 
